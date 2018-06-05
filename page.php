@@ -1,6 +1,10 @@
+
+<body class="EcranIntro">
+
 <?php get_header(); ?>
 
-	<div class="row EcranIntro"">
+
+	<div class="row EcranIntro">
 
 
         <div>
@@ -22,4 +26,9 @@
 
 	</div> <!-- /.row -->
 
+
+
+
 <?php get_footer(); ?>
+
+</body>
