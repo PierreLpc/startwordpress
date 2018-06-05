@@ -2,6 +2,11 @@
 
 	<div class="row">
 
+
+        <div>
+            <p> "Ceci est un test"</p>
+        </div>
+
 		<div class="col-sm-12">
 
 			<?php 
