@@ -1,9 +1,9 @@
 <?php get_header(); ?>
 
-	<div class="row">
+	<div class="row EcranIntro"">
 
 
-        <div class="EcranIntro">
+        <div>
             <p class="TxtIntro"> "Voici notre exemple pour le tp git"</p>
             <p> Blalbablablbablba </p>
         </div>
