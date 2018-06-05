@@ -194,6 +194,7 @@ h6, .h6 {
   width: 700px;
   text-align: center;
   padding-bottom: 20px;
+  text-transform: capitalize;
 }
 
 .EcranIntro{
@@ -205,4 +206,9 @@ h6, .h6 {
   background-attachment:fixed;
   position: absolute;
   background-image: url("https://images.unsplash.com/photo-1500917293891-ef795e70e1f6?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d6cde8cc87fc2947163be362be137b3d&auto=format&fit=crop&w=2250&q=80");
+}
+
+p{
+  font-family: "Source Sans Pro";
+  color: white;
 }
