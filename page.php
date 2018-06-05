@@ -3,7 +3,7 @@
 	<div class="row">
 
 
-        <div>
+        <div class="EcranIntro">
             <p class="TxtIntro"> "Voici notre exemple pour le tp git"</p>
             <p> Blalbablablbablba </p>
         </div>
