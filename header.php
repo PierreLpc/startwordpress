@@ -17,13 +17,13 @@
 
 <body>
 
-	<div class="blog-masthead">
+	<!--<div class="blog-masthead">
 		<div class="container">
 			<nav class="blog-nav">
-				<?php wp_list_pages( '&title_li='); ?>
+				<?php// wp_list_pages( '&title_li='); ?>
 			</nav>
 		</div>
-	</div>
+	</div>-->
 
 	<div class="container">
 
