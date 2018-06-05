@@ -154,6 +154,10 @@ h6, .h6 {
   color: white;
 }
 
+.blob-title a{
+  color: white;
+}
+
 .blog-post-meta {
   margin-bottom: 20px;
   color: #999;
