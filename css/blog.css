@@ -174,3 +174,14 @@ h6, .h6 {
 .blog-nav li a {
     color: #fff;
 }
+
+
+.TxtIntro{
+  font-size: 4.5rem;
+  line-height: 1.22;
+  margin: 0 auto 15px;
+  padding: 0;
+  width: 700px;
+  text-align: center;
+  padding-bottom: 20px;
+}
