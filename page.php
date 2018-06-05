@@ -4,7 +4,8 @@
 
 
         <div>
-            <p> "Ceci est un test"</p>
+            <p class="TxtIntro"> "Voici notre exemple pour le tp git"</p>
+            <p> Blalbablablbablba </p>
         </div>
 
 		<div class="col-sm-12">
