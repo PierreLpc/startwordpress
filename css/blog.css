@@ -5,6 +5,7 @@
 body {
   font-family: Georgia, "Times New Roman", Times, serif;
   color: #555;
+
 }
 
 h1, .h1,
@@ -146,10 +147,15 @@ h6, .h6 {
   border-top: 5px solid white;
   padding: 5px;
   text-align: center;
+  width: 45%;
 }
 
 
 .blog-post-title a{
+  color: white;
+}
+
+.blob-title a{
   color: white;
 }
 
